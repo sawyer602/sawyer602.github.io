@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My 1952 Ford F1
+title: "My 1952 Ford F1"
 
 # Your name to show in the footer
 author: Scott Sawyer
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "my52f1.sawyer207.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
