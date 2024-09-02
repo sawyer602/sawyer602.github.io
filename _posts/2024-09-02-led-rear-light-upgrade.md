@@ -13,8 +13,10 @@ Off to the store and Google.
 At our local parts store.
 Next up, I found Headlight Experts
 I finally ended up finding one product on Amazon.
-[# Ruiandsion 6](https://www.amazon.com/dp/B079HSFXP4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+![enter image descrRuiandsion 6V LED 1157 Lightsiption here](/assets/img/ruiandsion%20led%20lights.png)
+
+[# Amazon: Ruiandsion 6V LED 1157 Lights](https://www.amazon.com/dp/B079HSFXP4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYzMjM5NzUsMzc0MTk4ODMzXX0=
+eyJoaXN0b3J5IjpbMTI1NDYzNjc0OCwzNzQxOTg4MzNdfQ==
 -->
