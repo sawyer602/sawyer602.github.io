@@ -1,15 +1,13 @@
 ## layout: post  
-title: Sample blog post to learn markdown tips  
-subtitle: There’s lots to learn!  
-gh-repo: daattali/beautiful-jekyll  
-gh-badge: [star, fork, follow]  
-tags: [test]  
+title: Upgrading 6V Rear Lights to LED
+subtitle: My experiences and products I used to upgrade the rear lights to LED
+tags: [led,lights,6v]  
 comments: true  
-mathjax: true  
+mathjax: false
 author: Bill Smith
 ---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTcwMjczNl19
+eyJoaXN0b3J5IjpbLTE1NDAxMzM5MTZdfQ==
 -->
