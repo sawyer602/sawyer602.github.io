@@ -1,4 +1,5 @@
-## layout: post  
+---
+ layout: post  
 title: Upgrading 6V Rear Lights to LED
 subtitle: My experiences and products I used to upgrade the rear lights to LED
 tags: [led,lights,6v]  
@@ -19,5 +20,5 @@ I finally ended up finding one product on Amazon.
 [# Amazon: Ruiandsion 6V LED 1157 Lights](https://www.amazon.com/dp/B079HSFXP4?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODIwMjk2OSwzNzQxOTg4MzNdfQ==
+eyJoaXN0b3J5IjpbOTc2NTYxMTU2LDM3NDE5ODgzM119
 -->
