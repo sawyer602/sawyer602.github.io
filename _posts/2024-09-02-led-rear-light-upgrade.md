@@ -11,10 +11,10 @@ With a 6V system, the options were very limited - glad where we ended up.
 I started looking at the system first.  Volts and Amps all seemed to be where we expected them and from what I read, we were getting about the best we could from the standard 1157 bulbs.
 Off to the store and Google.
 At our local parts store.
- Next up, I found Headlight Experts
- 
+Next up, I found Headlight Experts
+I finally ended up finding one product on Amazon.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTc0ODY0NV19
+eyJoaXN0b3J5IjpbMzc0MTk4ODMzXX0=
 -->
