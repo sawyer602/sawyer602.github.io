@@ -10,16 +10,16 @@ subtitle: A list of repairs that I have done or still want to do.
 | Thermostat replacement | | | Medium | Low |
 | Water pump replacement | | | High | High |
 | Radiator replacement | | | Medium | High |
-| Horn repair || Medium | Low |
-| Wiper repair || Medium | Low |
-| Bed repair || High | Medium |
-| Rear shock replacement ||||
-| Side mirror replacement || Medium | Medium |
-| Heater repair ||||
-|||||
+| Horn repair  ||| Medium | Low |
+| Wiper repair ||| Medium | Low |
+| Bed repair ||| High | Medium |
+| Rear shock replacement |||||
+| Side mirror replacement ||| Medium | Medium |
+| Heater repair |||||
+||||||
 
 More
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjA0MzQxOSw2ODMxMTcyOTIsLTE2Nz
-E2NTQxMDMsLTk5MzgyMDE3MCwyMDQwODUzODcxXX0=
+eyJoaXN0b3J5IjpbMzkyMjU5NzE5LDY4MzExNzI5MiwtMTY3MT
+Y1NDEwMywtOTkzODIwMTcwLDIwNDA4NTM4NzFdfQ==
 -->
