@@ -21,7 +21,7 @@ author: Scott Sawyer
 
 navbar-links:
   # About Me: "aboutme"
-  Repair List: "repairs"
+  Project List: "projects"
   Resources:
     - Suppliers: "https://beautifuljekyll.com"
     - Parts Lists: "https://www.markdowntutorial.com/"
