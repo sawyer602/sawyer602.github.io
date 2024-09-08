@@ -4,8 +4,8 @@ title: Repair List
 subtitle: A list of repairs that I have done or still want to do.
 ---
 
-| Repair | Date Started |Date Completed |Difficulty | Cost |
-|:--------| -----:|-----:|:----:|:----:|
+| Repair | Date Started |Date Completed |Difficulty | Cost | Time |
+|:--------| -----:|-----:|:----:|:----:|:----|
 | Rear LED lights | 8/1/24 | 8/15/24 | ★☆☆☆☆ | ★☆☆☆☆ |
 | Thermostat replacement | | | Medium | Low |
 | Water pump replacement | | | High | High |
@@ -20,7 +20,7 @@ subtitle: A list of repairs that I have done or still want to do.
 
 More
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDg4NzEzLDM5MjI1OTcxOSw2ODMxMT
+eyJoaXN0b3J5IjpbLTU2MjQwMDM4LDM5MjI1OTcxOSw2ODMxMT
 cyOTIsLTE2NzE2NTQxMDMsLTk5MzgyMDE3MCwyMDQwODUzODcx
 XX0=
 -->
