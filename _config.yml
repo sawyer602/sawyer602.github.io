@@ -21,6 +21,7 @@ author: Scott Sawyer
 
 navbar-links:
   # About Me: "aboutme"
+  My 52: "my52"
   Project List: "projects"
   Resources:
     - Suppliers: "https://beautifuljekyll.com"
