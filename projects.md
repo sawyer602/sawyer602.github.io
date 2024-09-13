@@ -6,7 +6,7 @@ subtitle: A list of projects that I have done or still want to do.
 
 | Repair | Date Started |Date Completed |Difficulty | Cost | Work Time |
 |:--------| -----:|-----:|:----:|:----:|:----:|
-| [Rear LED lights](/2020-02-26-flake-it-till-you-make-it.md) | 8/1/24 | 8/15/24 | ★☆☆☆☆ | ★☆☆☆☆ | 3h |
+| [Rear LED lights](/_posts/2024-09-02-led-rear-light-upgrade.md) | 8/1/24 | 8/15/24 | ★☆☆☆☆ | ★☆☆☆☆ | 3h |
 | Thermostat replacement | 8/1/24 | 8/2/24 | ★★★☆☆| ★★☆☆☆| 5h |
 | Water pump replacement | 8/1/24 | 8/15/24 | ★★★★☆| ★★★★★| 5h |
 | Radiator replacement | | | Medium | High | -- |
@@ -20,6 +20,6 @@ subtitle: A list of projects that I have done or still want to do.
 
 More
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTI0MzYxMSwtNDkzNjQ1MTI4LC0zMT
+eyJoaXN0b3J5IjpbLTE1MzM5NjQxMywtNDkzNjQ1MTI4LC0zMT
 AzNDI4MjFdfQ==
 -->
