@@ -24,6 +24,7 @@ navbar-links:
   My 52: "my52"
   Project List: "projects"
   Resources:
+    - Whats Going on in 1952: "in1952"
     - Suppliers: "https://beautifuljekyll.com"
     - Parts Lists: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
