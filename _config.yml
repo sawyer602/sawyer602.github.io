@@ -22,11 +22,12 @@ author: Scott Sawyer
 navbar-links:
   # About Me: "aboutme"
   My 52: "my52"
-  Project List: "projects"
+  Projects: "projects"
   Resources:
-    - Whats Going on in 1952: "in1952"
+    - 1952 News: "in1952"
     - Suppliers: "https://beautifuljekyll.com"
     - Parts Lists: "https://www.markdowntutorial.com/"
+    - Shows: ""
   #Author's home: "https://deanattali.com"
 
 ################
