@@ -25,6 +25,7 @@ navbar-links:
     - F1 History: "f1history"
   Projects: "projects"
   Resources:
+    - F1 History: "f1history"
     - 1952 News: "in1952"
     - Suppliers: "https://beautifuljekyll.com"
     - Parts Lists: "https://www.markdowntutorial.com/"
