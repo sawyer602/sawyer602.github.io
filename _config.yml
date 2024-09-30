@@ -22,6 +22,7 @@ author: Scott Sawyer
 navbar-links:
   # About Me: "aboutme"
   My 52: "my52"
+    - F1 History: "f1history"
   Projects: "projects"
   Resources:
     - 1952 News: "in1952"
